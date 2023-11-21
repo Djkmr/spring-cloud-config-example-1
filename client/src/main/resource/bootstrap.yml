@@ -5,4 +5,4 @@ spring:
     config:
       env: default # optional
       label: master # optional
-      uri: http://localhost:8888 # optional
+      uri: http://54.81.95.112:8888 
