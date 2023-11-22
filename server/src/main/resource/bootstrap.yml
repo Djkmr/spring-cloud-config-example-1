@@ -1,4 +1,4 @@
 spring:
   cloud:
     config:
-      uri: https://github.com/Djkmr/spring-cloud-config-example-1.git
+      uri: https://github.com/Djkmr/spring-cloud-config-example-1.git 
