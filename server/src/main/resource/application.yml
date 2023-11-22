@@ -1,6 +1,11 @@
+server:
+  port: 8081
 spring:
+  application:
+    name: Config-Server 
+
   cloud:
     config:
       server:
-        git:
-          uri: https://github.com/Djkmr/spring-cloud-config-example-1.git
+        git: 
+          uri:
