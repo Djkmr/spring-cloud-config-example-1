@@ -1,4 +1,4 @@
 spring:
   cloud:
     config:
-      uri: http://54.81.95.112:8888
+      uri: http://54.172.191.62:8081
